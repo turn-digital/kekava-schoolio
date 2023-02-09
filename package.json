@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "echo index-schoolio.turn.lv > ./build/CNAME && gh-pages -d build"
+    "deploy": "echo kekava-schoolio.turn.lv > ./build/CNAME && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
