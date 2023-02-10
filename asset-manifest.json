@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f28f4025.css",
-    "main.js": "/static/js/main.acbe46a3.js",
+    "main.css": "/static/css/main.57a4a5dd.css",
+    "main.js": "/static/js/main.dedca8d6.js",
     "static/js/787.57d4b1be.chunk.js": "/static/js/787.57d4b1be.chunk.js",
+    "static/media/vidusskola.kekava.lv-ln.jpg": "/static/media/vidusskola.kekava.lv-ln.d490853941caa2a9bf3b.jpg",
     "static/media/SourceSansPro-Regular.woff": "/static/media/SourceSansPro-Regular.cab17d24b28e61f2e56d.woff",
     "static/media/SourceSansPro-Bold.woff": "/static/media/SourceSansPro-Bold.27215f991146a09dbb23.woff",
     "static/media/SourceSansPro-Black.woff": "/static/media/SourceSansPro-Black.abf61b1e9edeb3938543.woff",
     "static/media/SourceSansPro-Italic.woff": "/static/media/SourceSansPro-Italic.f57a340a11b73609e7cb.woff",
     "index.html": "/index.html",
     "static/media/icon-chevron-right.svg": "/static/media/icon-chevron-right.bd51f68c14ea3f48974d.svg",
-    "main.f28f4025.css.map": "/static/css/main.f28f4025.css.map",
-    "main.acbe46a3.js.map": "/static/js/main.acbe46a3.js.map",
+    "main.57a4a5dd.css.map": "/static/css/main.57a4a5dd.css.map",
+    "main.dedca8d6.js.map": "/static/js/main.dedca8d6.js.map",
     "787.57d4b1be.chunk.js.map": "/static/js/787.57d4b1be.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f28f4025.css",
-    "static/js/main.acbe46a3.js"
+    "static/css/main.57a4a5dd.css",
+    "static/js/main.dedca8d6.js"
   ]
 }
