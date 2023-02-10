@@ -9,10 +9,10 @@ const Header = () => {
             <h1 className="header__title">
               <a
                 href={process.env.urlToRedirect}
-                title="Kekavas vidusskola"
+                title="Ķekavas vidusskola"
                 className="link link--invert"
               >
-                <span>Kekavas vidusskola</span>
+                <span>Ķekavas vidusskola</span>
               </a>{" "}
             </h1>
 
