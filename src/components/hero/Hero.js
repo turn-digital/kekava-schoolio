@@ -3,13 +3,7 @@ import React from "react";
 const Content = (props) => {
   return (
     <div className="hero">
-      <div
-        className="hero__bg"
-        style={{
-          backgroundImage:
-            "url('https://www.ozolniekuvsk.lv/wp-content/uploads/2021/06/Ozolnieku_vsk.png')",
-        }}
-      >
+      <div className="hero__bg">
         <img
           src="https://www.ozolniekuvsk.lv/wp-content/uploads/2021/06/Ozolnieku_vsk.png"
           alt="Skats uz Kekavas vidusskolas no augšas"
