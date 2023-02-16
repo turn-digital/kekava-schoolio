@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.57a4a5dd.css",
-    "main.js": "/static/js/main.dedca8d6.js",
+    "main.js": "/static/js/main.a224c84b.js",
     "static/js/787.57d4b1be.chunk.js": "/static/js/787.57d4b1be.chunk.js",
     "static/media/vidusskola.kekava.lv-ln.jpg": "/static/media/vidusskola.kekava.lv-ln.d490853941caa2a9bf3b.jpg",
     "static/media/SourceSansPro-Regular.woff": "/static/media/SourceSansPro-Regular.cab17d24b28e61f2e56d.woff",
@@ -11,11 +11,11 @@
     "index.html": "/index.html",
     "static/media/icon-chevron-right.svg": "/static/media/icon-chevron-right.bd51f68c14ea3f48974d.svg",
     "main.57a4a5dd.css.map": "/static/css/main.57a4a5dd.css.map",
-    "main.dedca8d6.js.map": "/static/js/main.dedca8d6.js.map",
+    "main.a224c84b.js.map": "/static/js/main.a224c84b.js.map",
     "787.57d4b1be.chunk.js.map": "/static/js/787.57d4b1be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57a4a5dd.css",
-    "static/js/main.dedca8d6.js"
+    "static/js/main.a224c84b.js"
   ]
 }
