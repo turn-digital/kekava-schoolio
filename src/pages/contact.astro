@@ -5,12 +5,13 @@ import Header from "../components/header/Header.jsx";
 import Layout from "../layouts/Layout.astro";
 ---
 
+<Layout>
 <main>
-  <Layout />
   <Header />
   <ContactForm client:load />
   <Footer />
 </main>
+</Layout>
 
 <style lang="scss">
   @import "../styles/style.scss";
