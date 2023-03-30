@@ -2,9 +2,11 @@
 import ContactForm from "../components/contactForm/ContactForm.jsx";
 import Footer from "../components/footer/Footer.jsx";
 import Header from "../components/header/Header.jsx";
+import Layout from "../layouts/Layout.astro";
 ---
 
 <main>
+  <Layout />
   <Header />
   <ContactForm client:load />
   <Footer />
